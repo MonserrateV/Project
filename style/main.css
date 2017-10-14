@@ -1,0 +1,20 @@
+body{
+	background: #403B4A;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E7E9BB, #403B4A);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E7E9BB, #403B4A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+
+.text-center{
+	 font-family: 'Nosifer', cursive;
+	 margin-top: 1em;
+	 text-shadow: 2px 2px 4px #FFFDF7;
+}
+em{
+color: #FF1818;
+text-shadow: 2px 2px 4px #555042;
+}
+.logout{
+	margin-top:7em;
+	font-size: 32px;
+}
