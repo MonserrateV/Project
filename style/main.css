@@ -7,6 +7,7 @@ background: linear-gradient(to right, #E7E9BB, #403B4A); /* W3C, IE 10+/ Edge, F
 
 .text-center{
 	 font-family: 'Nosifer', cursive;
+	 word-spacing: 8px;
 	 margin-top: 1em;
 	 text-shadow: 2px 2px 4px #FFFDF7;
 }
